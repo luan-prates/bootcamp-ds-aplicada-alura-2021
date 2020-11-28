@@ -9,28 +9,36 @@ Analisando dados da saúde com Python e Pandas
 
 ALURA+
 Dados Projeto Módulo 01
----
+===
 
 DESAFIO
 Projeto Módulo 1
+===
 
 ALURA+
 Acessando dados pelo Colab
+===
 
 ALURA+
 Compartilhando sua análise de dados
+===
 
 REVISÃO
 Revisão das Monitorias
+===
 
 VIDEO
 Por que Python se tornou tão popular? - Hipsters.Talks #29 - YouTube
+===
 
 MENTORIA
 Mercado e Carreira
+===
 
 REVISÃO
 Revisão das Monitorias
+===
 
 REVISÃO
 Revisao de Projetos Selecionados
+===

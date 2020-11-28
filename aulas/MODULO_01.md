@@ -15,13 +15,13 @@ Analisando dados da saúde com Python e Pandas
 
 Aulas
 ---
-1. Aquisição e leitura de dados reais
+### Aquisição e leitura de dados reais
 1. Introdução
-  Preparando o ambiente
-  Produção hospitalar e Pandas
-  Visualizações e gráficos
-  Desafio
-  O que aprendemos?
+2. Preparando o ambiente
+3. Produção hospitalar e Pandas
+4. Visualizações e gráficos
+5. Desafio
+6. O que aprendemos?
 
 ~~~Primeiras visualizações de dados
 Entendendo gráficos

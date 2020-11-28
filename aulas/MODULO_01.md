@@ -23,17 +23,41 @@ Aulas
 5. Desafio
 6. O que aprendemos?
 
-~~~Primeiras visualizações de dados
-Entendendo gráficos
-Desafio
-O que aprendemos?
-~~~
+### Aquisição e leitura de dados reais
+1. Introdução
+2. Preparando o ambiente
+3. Produção hospitalar e Pandas
+4. Visualizações e gráficos
+5. Desafio
+6. O que aprendemos?
 
+### Primeiras visualizações de dados
+1. Entendendo gráficos
+2. Desafio
+3. O que aprendemos?
+
+### Manipulação de dados
+1. Aleatoriedade e mais explorações
+2. Ordenação e série temporal
+3. Desafio
+4. O que aprendemos?
+
+### Análise de gráficos e criação de hipótese
+1. Fugindo de más práticas
+2. Desafio
+3. O que aprendemos?
+
+### Manipulação e interpretação de gráficos
+1. Alternativas de visualizações
+2. Desafio
+3. Conclusão
+4. O que aprendemos?
 
 ALURA+
 Dados Projeto Módulo 01
 ===
 
+[Vídeo](https://www.youtube.com/watch?v=nw9EGSXLpqw&feature=emb_logo)
 
 DESAFIO
 Projeto Módulo 1

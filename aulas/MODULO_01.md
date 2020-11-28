@@ -15,14 +15,13 @@ Analisando dados da saúde com Python e Pandas
 
 Aulas
 ---
-~~~Aquisição e leitura de dados reais
- - Introdução
- - Preparando o ambiente
- - Produção hospitalar e Pandas
- - Visualizações e gráficos
- - Desafio
- - O que aprendemos?
-~~~
+1. Aquisição e leitura de dados reais
+  Introdução
+  Preparando o ambiente
+  Produção hospitalar e Pandas
+  Visualizações e gráficos
+  Desafio
+  O que aprendemos?
 
 ~~~Primeiras visualizações de dados
 Entendendo gráficos
@@ -35,17 +34,6 @@ ALURA+
 Dados Projeto Módulo 01
 ===
 
-~~~javascript
-Esta é uma linha de código em Javascript.
-~~~
-
-~~~php
-Esta é uma linha de código em PHP.
-~~~
-
-~~~html
-Esta é uma linha de código em HTML.
-~~~
 
 DESAFIO
 Projeto Módulo 1

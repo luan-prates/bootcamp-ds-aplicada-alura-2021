@@ -24,6 +24,12 @@ Aulas
  - O que aprendemos?
 ~~~
 
+~~~Primeiras visualizações de dados
+Entendendo gráficos
+Desafio
+O que aprendemos?
+~~~
+
 
 ALURA+
 Dados Projeto Módulo 01

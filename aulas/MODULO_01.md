@@ -7,7 +7,12 @@ CURSO
 Analisando dados da saúde com Python e Pandas
 ===
 
-teste
+*Faça esse curso de Data Science e:*
+- Aprenda como utilizar Python e Pandas para analisar dados reais.
+- Aprenda como ler dados reais com Pandas e os desafios de lidar com dados governamentais.
+- Analise e explore os dados criando hipótese de forma analítica.
+- Crie visualizações e aprenda boas práticas.
+
 
 ALURA+
 Dados Projeto Módulo 01

@@ -4,11 +4,12 @@ Neste módulo vamos aprender como utilizar Python, Pandas e Matplotlib para expl
 
 
 ##  *CURSO* 
-
 Analisando dados da saúde com Python e Pandas
 ===
+
 ALURA+
 Dados Projeto Módulo 01
+---
 
 DESAFIO
 Projeto Módulo 1

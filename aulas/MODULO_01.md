@@ -8,10 +8,10 @@ Analisando dados da saúde com Python e Pandas
 ===
 
 *Ao fazer esse curso eu aprendi:*
-- Aprenda como utilizar Python e Pandas para analisar dados reais.
-- Aprenda como ler dados reais com Pandas e os desafios de lidar com dados governamentais.
-- Analise e explore os dados criando hipótese de forma analítica.
-- Crie visualizações e aprenda boas práticas.
+- Como utilizar Python e Pandas para analisar um conjunto de dados reais.
+- Como ler dados reais com Pandas e os desafios de lidar com dados governamentais.
+- Analisei e explorei os dados criando hipóteses de forma analítica.
+- Criei algumas visualizações usando boas práticas.
 
 
 ALURA+

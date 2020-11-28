@@ -13,6 +13,16 @@ Analisando dados da saúde com Python e Pandas
 - Explorei analisei e  os dados criando hipóteses de forma analítica.
 - Criei algumas visualizações usando boas práticas.
 
+Aulas
+---
+- Aquisição e leitura de dados reais
+ - Introdução
+ - Preparando o ambiente
+ - Produção hospitalar e Pandas
+ - Visualizações e gráficos
+ - Desafio
+ - O que aprendemos?
+
 
 ALURA+
 Dados Projeto Módulo 01

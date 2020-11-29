@@ -54,7 +54,7 @@ Aulas
 4. O que aprendemos?
 
 
-DESAFIO
+
 Projeto Módulo 1
 ===
 Olá **Cientista**!

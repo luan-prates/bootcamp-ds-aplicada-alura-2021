@@ -80,7 +80,6 @@ Compatilhe seu projeto nas redes sociais e crie um repositório no github, esse 
 
 Extras
 ===
-
 [Por que Python se tornou tão popular?](https://www.youtube.com/watch?v=ZuUg6E_H0tk)
 
 [Como usar o Google COLAB](https://www.youtube.com/watch?v=_mIwsA2ddSc)

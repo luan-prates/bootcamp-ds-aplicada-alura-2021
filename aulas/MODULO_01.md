@@ -92,18 +92,14 @@ Revisão
 ---
 [Revisão das Monitorias - Semana 1](https://www.youtube.com/watch?v=dhvnUwony7k)
 
-VIDEO
 Por que Python se tornou tão popular? - Hipsters.Talks #29 - YouTube
 ---
 
-MENTORIA
 Mercado e Carreira
 ---
 
-REVISÃO
 Revisão das Monitorias
 ---
 
-REVISÃO
 Revisao de Projetos Selecionados
 ---

@@ -80,15 +80,13 @@ Compatilhe seu projeto nas redes sociais e crie um repositório no github, esse 
 
 Extras
 ===
-Mostrar como usar o Colab
+Google Colab
 ---
-- Acessando dados pelo Colab
+- Acessando Colab
 
-- Explicar como acessar os dados no colab
+- Como acessar os dados no colab
 
 - Compartilhando sua análise de dados
-
-- Explicar como compartilhar os dados no colab
 
 Revisão
 ---

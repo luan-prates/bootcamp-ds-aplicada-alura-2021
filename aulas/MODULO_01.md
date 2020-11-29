@@ -80,27 +80,13 @@ Compatilhe seu projeto nas redes sociais e crie um repositório no github, esse 
 
 Extras
 ===
-Vídeos
----
+
+[Por que Python se tornou tão popular?](https://www.youtube.com/watch?v=ZuUg6E_H0tk)
+
+[Como usar o Google COLAB](https://www.youtube.com/watch?v=_mIwsA2ddSc)
 
 [Revisão das Monitorias - Semana 1](https://www.youtube.com/watch?v=dhvnUwony7k)
 
 [Mercado e Carreira - Módulo 1](https://www.youtube.com/watch?v=Yu-xh16eLc8&feature=emb_logo)
 
 [Revisão de Projetos Selecionados](https://www.youtube.com/watch?v=y_aZXZvm2eQ&feature=emb_logo)
-
-Google Colab
----
-- Acessando Colab
-
-- Como acessar os dados no colab
-
-- Compartilhando sua análise de dados
-
-Revisão
----
-
-
-Por que Python se tornou tão popular? - Hipsters.Talks #29 - YouTube
----
-[Por que Python se tornou tão popular?](https://www.youtube.com/watch?v=ZuUg6E_H0tk)

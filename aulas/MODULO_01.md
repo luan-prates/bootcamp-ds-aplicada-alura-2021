@@ -80,14 +80,15 @@ Compatilhe seu projeto nas redes sociais e crie um repositório no github, esse 
 
 Extras
 ===
-Acessando dados pelo Colab
+Mostrar como usar o Colab
 ---
-Explicar como acessar os dados no colab
+- Acessando dados pelo Colab
 
-ALURA+
-Compartilhando sua análise de dados
----
-Explicar como compartilhar os dados no colab
+- Explicar como acessar os dados no colab
+
+- Compartilhando sua análise de dados
+
+- Explicar como compartilhar os dados no colab
 
 Revisão
 ---

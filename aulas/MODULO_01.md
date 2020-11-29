@@ -81,7 +81,9 @@ Compatilhe seu projeto nas redes sociais e crie um repositório no github, esse 
 Extras
 ===
 [Revisão das Monitorias - Semana 1](https://www.youtube.com/watch?v=dhvnUwony7k)
+
 [Mercado e Carreira - Módulo 1](https://www.youtube.com/watch?v=Yu-xh16eLc8&feature=emb_logo)
+
 [Revisão de Projetos Selecionados](https://www.youtube.com/watch?v=y_aZXZvm2eQ&feature=emb_logo)
 
 Google Colab

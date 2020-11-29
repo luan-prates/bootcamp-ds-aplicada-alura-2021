@@ -53,18 +53,13 @@ Aulas
 3. Conclusão
 4. O que aprendemos?
 
-ALURA+
-Dados Projeto Módulo 01
-===
-
-[Vídeo](https://www.youtube.com/watch?v=nw9EGSXLpqw&feature=emb_logo)
 
 DESAFIO
 Projeto Módulo 1
 ===
 Olá **Cientista**!
 
-Bem vinda e bem vindo ao **mega desafio do Módulo 01**, neste desafio queremos que você aplique tudo que aprendeu no curso, analisando uma outra informação ~~referente a base de dados de [produção hospitalar](http://www2.datasus.gov.br/DATASUS/index.php?area=0202&id=11633&VObj=http://tabnet.datasus.gov.br/cgi/deftohtm.exe?sih/cnv/qi), seja número de internação, óbito, AIH ou taxa de mortalidade.~~ 
+Bem vinda e bem vindo ao **mega desafio do Módulo 01**, neste desafio queremos que você aplique tudo que aprendeu no curso, analisando uma outra informação  ~~referente a base de dados de [produção hospitalar](http://www2.datasus.gov.br/DATASUS/index.php?area=0202&id=11633&VObj=http://tabnet.datasus.gov.br/cgi/deftohtm.exe?sih/cnv/qi), seja número de internação, óbito, AIH ou taxa de mortalidade.~~ 
 
 **P.S: Infelizmente o DataSUS está fora do ar por tempo indeterminado, para você não parar seu projeto, adicionamos no [GitHub](https://github.com/alura-cursos/agendamento-hospitalar/tree/main/dados) do curso, duas novas bases para você utilizar neste projeto (COVID-19 e Óbitos).**
 
@@ -74,42 +69,42 @@ Vocês podem escolher qualquer uma das duas bases de dados, a de COVID-19 é mai
 
 Algumas dicas para você mandar bem no desafio final, capriche nas análises, escreva suas conclusões e hipóteses (mesmo que resultado seja inconclusivo) e não esqueça de colocar um resumo dos pontos que julgar mais interessantes do seu projeto.
 
-
-
-E para que o seu projeto tenha a oportunidade de ser avalido pelo Thiago G. Santos e Átila Iamarino, ao vivo na **live de revisão de projetos** submeta o link compartilhado do seu notebook [neste formulário](https://docs.google.com/forms/d/e/1FAIpQLSd1jemhvdo8sM6e-bgOryyZ2P3YuMO6E_mUQXabyBX_xhuZQQ/viewform?usp=sf_link) até dia 22/11 às 23h59.
-
 Para facilitar a vida dos seus instrutores favoritos, no momento da correção, algumas dicas de como estruturar seu projeto:
 
-- Como título do seu **Colab** coloque seu nome (Ex: Thiago_Gonçalves.ipynb)
+- Como título do seu **Colab** coloque seu nome (Ex: Luan_Prates.ipynb)
 - Crie um resumo das suas análises na parte superior do notebook
 - Informe no resumo os dados que vc vai analisar (Ex: Finaceiros e Internações)
 
-Qualquer dúvida não deixe de perguntar no Discord, compatilhe seu projeto nas redes sociais e crie um repositório no github, esse é o início do seu portifólio em Data Science.
+Compatilhe seu projeto nas redes sociais e crie um repositório no github, esse é o início do seu portifólio em Data Science.
 
-ALURA+
-Acessando dados pelo Colab
+
+Extras
 ===
+Acessando dados pelo Colab
+---
+Explicar como acessar os dados no colab
 
 ALURA+
 Compartilhando sua análise de dados
-===
+---
+Explicar como compartilhar os dados no colab
 
-REVISÃO
-Revisão das Monitorias
-===
+Revisão
+---
+[Revisão das Monitorias - Semana 1](https://www.youtube.com/watch?v=dhvnUwony7k)
 
 VIDEO
 Por que Python se tornou tão popular? - Hipsters.Talks #29 - YouTube
-===
+---
 
 MENTORIA
 Mercado e Carreira
-===
+---
 
 REVISÃO
 Revisão das Monitorias
-===
+---
 
 REVISÃO
 Revisao de Projetos Selecionados
-===
+---

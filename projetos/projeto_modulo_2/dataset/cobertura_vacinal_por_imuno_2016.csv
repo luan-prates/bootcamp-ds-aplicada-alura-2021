@@ -1,0 +1,26 @@
+ Procedimentos hospitalares do SUS - por local de internação - Brasil
+AIH aprovadas por Ano atendimento e Natureza
+Município: 310620 Belo Horizonte
+Subgrupo proced.: 0304 Tratamento em oncologia, 0416 Cirurgia em oncologia
+Período:Jan/2014-Set/2020
+"Ano atendimento";"Federal";"Estadual";"Municipal";"Filantrópico";"Filantrópico isento tributos e contr.sociais";"Ignorado";"Total"
+"2013";743;208;30;749;314;-;2044
+"2014";2939;1102;122;5469;9036;-;18668
+"2015";1669;908;126;4303;8330;5603;20939
+"2016";-;-;-;-;-;20768;20768
+"2017";-;-;-;-;-;20082;20082
+"2018";-;-;-;-;-;18933;18933
+"2019";-;-;-;-;-;19350;19350
+"2020";-;-;-;-;-;12238;12238
+"Total";5351;2218;278;10521;17680;96974;133022
+ Fonte: Ministério da Saúde - Sistema de Informações Hospitalares do SUS (SIH/SUS)
+ Notas:
+ 
+ Dados referentes aos últimos seis meses, sujeitos a  atualização.
+ A partir do processamento de junho de 2012, houve mudança na classificação da natureza e esfera dos estabelecimentos. Com isso, temos que:
+      
+      Até maio de 2012 estas informações estão disponíveis como "Natureza" e "Esfera Administrativa".
+      De junho de 2012 a outubro de 2015, estão disponíveis tanto como "Natureza" e "Esfera Administrativa", como "Natureza Jurídica" e "Esfera Jurídica".
+      A partir de novembro de 2015, estão disponíveis como "Natureza Jurídica" e "Esfera Jurídica".
+      
+ 

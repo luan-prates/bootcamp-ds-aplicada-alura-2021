@@ -1,5 +1,7 @@
 .ipynb_checkpoints
 /rascunho
 /datasets
+/subnotificometro/fiocruz
 *.rar
 *.zip
+*.csv
